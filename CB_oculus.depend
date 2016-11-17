@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1431081029 source:c:\users\admin\desktop\proyecto cb oculus\cb_oculus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<assert.h>
+	<math.h>
+	"ovrs_lib.h"
+
+1430928401 c:\users\admin\desktop\proyecto cb oculus\cb_oculus\ovrs_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<LibOVR/src/OVR_CAPI.h>
+	<LibOVR/src/OVR_CAPI_GL.h>
+
+1432720633 source:c:\games\cb_oculus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<assert.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	"ovrs_lib.h"
+
+1430928401 c:\games\cb_oculus\ovrs_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<LibOVR/src/OVR_CAPI.h>
+	<LibOVR/src/OVR_CAPI_GL.h>
+
